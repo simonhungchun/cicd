@@ -6,3 +6,5 @@ import vue from "@vitejs/plugin-vue";
 export default defineConfig({
   plugins: [vue()],
 });
+
+// 修改了vite.config.js文件
